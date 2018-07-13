@@ -12,3 +12,6 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 env:
   testBBBBBBBB
+girl
+  name: lily
+  age: 18
