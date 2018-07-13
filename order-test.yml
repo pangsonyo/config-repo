@@ -11,4 +11,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 env:
-  test
+  test1234568977
