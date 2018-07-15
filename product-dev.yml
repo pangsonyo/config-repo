@@ -4,5 +4,9 @@ spring:
     username: peng
     password: 123
     url: jdbc:mysql://127.0.0.1/springcloud_sell?characterEncoding=utf-8&useSSL=false
+  rabbitmq:
+    addresses: 192.168.99.100:5672
+    username: guest
+    password: guest
   jpa:
     show-sql: true
